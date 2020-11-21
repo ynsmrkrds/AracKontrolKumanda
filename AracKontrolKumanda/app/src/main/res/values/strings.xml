@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Arac Kontrol Kumanda</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_kontrol">KontrolActivity</string>
+    <string name="title_activity_bluetooth">BluetoothActivity</string>
+    <string name="title_activity_arac_modu">AracModuActivity</string>
+</resources>
