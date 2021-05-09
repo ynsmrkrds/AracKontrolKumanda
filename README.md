@@ -1,0 +1,1 @@
+Bu uygulama Arduino kartı ile geliştirilmiş olan tankı ileri, geri, sağa, sola doğru hareket ettirmek ve tankın modlarını seçmek için geliştirilmiştir. Uygulama bluetooth üzerinden Arduino kartıyla haberleşerek tankı yönetmemize olanak sağlar. Ayrıca bu uygulama Andoid Studio ortamında Java diliyle geliştirilmiştir.
